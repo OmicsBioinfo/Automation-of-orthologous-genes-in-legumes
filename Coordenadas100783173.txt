@@ -1,0 +1,1 @@
+Gene ID: 100783173, Reference: NC_038241, Start: 2287054, End: 2289070
